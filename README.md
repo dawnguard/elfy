@@ -1,6 +1,6 @@
-# elfy
-<h5>A beautiful search engine front-end</h5>
-
+<h1>Elfy</h1>
+<p>A beautiful search engine front-end</h5>
+<br>
+<br>
 <hr>
-
-<h6>Powered by DuckDuckGo</h6>
+*Powered by DuckDuckGo*
