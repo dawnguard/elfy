@@ -1,5 +1,5 @@
 # elfy
-A beautiful search engine front-end
+<h5>A beautiful search engine front-end</h5>
 
 <hr>
 
