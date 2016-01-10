@@ -2,5 +2,5 @@
 <p>A beautiful search engine front-end</h5>
 <br>
 <br>
-<hr>
+<br>
 *Powered by DuckDuckGo*
