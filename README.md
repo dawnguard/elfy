@@ -1,4 +1,4 @@
-# Elfy
+# elfy
 A beautiful search engine front-end
 
 <hr>
