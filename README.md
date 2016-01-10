@@ -1,2 +1,4 @@
-# elfy
-A classy search engine front-end, powered by DuckDuckGo 
+# Elfy
+A beautiful search engine front-end
+
+Powered by DuckDuckGo
