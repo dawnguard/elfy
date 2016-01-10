@@ -8,4 +8,4 @@ A beautiful search engine front-end
 
 
 
-Powered by DuckDuckGo
+<h6>Powered by DuckDuckGo</h6>
